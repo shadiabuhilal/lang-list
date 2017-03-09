@@ -1,0 +1,836 @@
+exports[`index should match languages list snapshot 1`] = `
+Object {
+  "af": Object {
+    "int": "Afrikaans",
+    "native": "Afrikaans",
+  },
+  "ar": Object {
+    "int": "Arabic",
+    "native": "العربية",
+  },
+  "as": Object {
+    "int": "Assamese",
+    "native": "অসমীয়া",
+  },
+  "az": Object {
+    "int": "Azerbaijani",
+    "native": "Azərbaycan dili",
+  },
+  "be": Object {
+    "int": "Belarusian",
+    "native": "Беларуская",
+  },
+  "bg": Object {
+    "int": "Bulgarian",
+    "native": "Български",
+  },
+  "bn": Object {
+    "int": "Bengali",
+    "native": "বাংলা",
+  },
+  "br": Object {
+    "int": "Breton",
+    "native": "Brezhoneg",
+  },
+  "bs": Object {
+    "int": "Bosnian",
+    "native": "Bosanski",
+  },
+  "ca": Object {
+    "int": "Catalan / Valencian",
+    "native": "Català",
+  },
+  "cb": Object {
+    "int": "Sorani Kurdish",
+    "native": "کوردیی ناوەندی",
+  },
+  "cs": Object {
+    "int": "Czech",
+    "native": "Čeština",
+  },
+  "cx": Object {
+    "int": "Visayan",
+    "native": "Bisaya",
+  },
+  "cy": Object {
+    "int": "Welsh",
+    "native": "Cymraeg",
+  },
+  "da": Object {
+    "int": "Danish",
+    "native": "Dansk",
+  },
+  "de": Object {
+    "int": "German",
+    "native": "Deutsch",
+  },
+  "el": Object {
+    "int": "Greek",
+    "native": "Ελληνικά",
+  },
+  "en": Object {
+    "int": "English",
+    "native": "English",
+  },
+  "eo": Object {
+    "int": "Esperanto",
+    "native": "Esperanto",
+  },
+  "es": Object {
+    "int": "Spanish",
+    "native": "Español",
+  },
+  "et": Object {
+    "int": "Estonian",
+    "native": "Eesti",
+  },
+  "eu": Object {
+    "int": "Basque",
+    "native": "Euskara",
+  },
+  "fa": Object {
+    "int": "Persian",
+    "native": "فارسی",
+  },
+  "fi": Object {
+    "int": "Finnish",
+    "native": "Suomi",
+  },
+  "fo_FO": Object {
+    "int": "Faroese",
+    "native": "Føroyskt",
+  },
+  "fr": Object {
+    "int": "French",
+    "native": "Français",
+  },
+  "fy": Object {
+    "int": "West Frisian",
+    "native": "Frysk",
+  },
+  "ga": Object {
+    "int": "Irish",
+    "native": "Gaeilge",
+  },
+  "gl": Object {
+    "int": "Galician",
+    "native": "Galego",
+  },
+  "gn": Object {
+    "int": "Guarani",
+    "native": "Avañe\'ẽ",
+  },
+  "gu": Object {
+    "int": "Gujarati",
+    "native": "ગુજરાતી",
+  },
+  "ha": Object {
+    "int": "Hausa",
+    "native": "Hausa",
+  },
+  "he": Object {
+    "int": "Hebrew",
+    "native": "עברית",
+  },
+  "hi": Object {
+    "int": "Hindi",
+    "native": "हिन्दी",
+  },
+  "hr": Object {
+    "int": "Hausa",
+    "native": "Hrvatski",
+  },
+  "hu": Object {
+    "int": "Hungarian",
+    "native": "Magyar",
+  },
+  "hy": Object {
+    "int": "Armenian",
+    "native": "Հայերեն",
+  },
+  "id": Object {
+    "int": "Indonesian",
+    "native": "Bahasa Indonesia",
+  },
+  "is": Object {
+    "int": "Icelandic",
+    "native": "Íslenska",
+  },
+  "it": Object {
+    "int": "Italian",
+    "native": "Italiano",
+  },
+  "ja": Object {
+    "int": "Japanese (Kansai)",
+    "native": "日本語(関西)",
+  },
+  "jv": Object {
+    "int": "Javanese",
+    "native": "Basa Jawa",
+  },
+  "ka": Object {
+    "int": "Georgian",
+    "native": "ქართული",
+  },
+  "kk": Object {
+    "int": "Kazakh",
+    "native": "Қазақша",
+  },
+  "km": Object {
+    "int": "Khmer",
+    "native": "ភាសាខ្មែរ",
+  },
+  "kn": Object {
+    "int": "Kannada",
+    "native": "ಕನ್ನಡ",
+  },
+  "ko": Object {
+    "int": "Korean",
+    "native": "한국어",
+  },
+  "ku": Object {
+    "int": "Kurdish",
+    "native": "Kurdî (Kurmancî)",
+  },
+  "la": Object {
+    "int": "Latin",
+    "native": "lingua latina",
+  },
+  "lt": Object {
+    "int": "Lithuanian",
+    "native": "Lietuvių",
+  },
+  "lv": Object {
+    "int": "Latvian",
+    "native": "Latviešu",
+  },
+  "mg": Object {
+    "int": "Malagasy",
+    "native": "Malagasy",
+  },
+  "mk": Object {
+    "int": "Macedonian",
+    "native": "Македонски",
+  },
+  "ml": Object {
+    "int": "Malayalam",
+    "native": "മലയാളം",
+  },
+  "mn": Object {
+    "int": "Mongolian",
+    "native": "Монгол",
+  },
+  "mr": Object {
+    "int": "Marathi",
+    "native": "मराठी",
+  },
+  "ms": Object {
+    "int": "Malay",
+    "native": "Bahasa Melayu",
+  },
+  "my": Object {
+    "int": "Burmese",
+    "native": "မြန်မာဘာသာ",
+  },
+  "nb": Object {
+    "int": "Norwegian (bokmal)",
+    "native": "Norsk (bokmål)",
+  },
+  "ne": Object {
+    "int": "Nepali",
+    "native": "नेपाली",
+  },
+  "nl": Object {
+    "int": "Dutch",
+    "native": "Nederlands",
+  },
+  "nn": Object {
+    "int": "Norwegian Nynorsk",
+    "native": "Norsk (nynorsk)",
+  },
+  "or": Object {
+    "int": "Oriya",
+    "native": "ଓଡ଼ିଆ",
+  },
+  "pa": Object {
+    "int": "Punjabi",
+    "native": "ਪੰਜਾਬੀ",
+  },
+  "pl": Object {
+    "int": "Polish",
+    "native": "Polski",
+  },
+  "ps": Object {
+    "int": "Pashto",
+    "native": "پښتو",
+  },
+  "pt": Object {
+    "int": "Portuguese",
+    "native": "Português",
+  },
+  "ro": Object {
+    "int": "Romanian",
+    "native": "Română",
+  },
+  "ru": Object {
+    "int": "Russian",
+    "native": "Русский",
+  },
+  "rw": Object {
+    "int": "Rwandi",
+    "native": "Ikinyarwanda",
+  },
+  "sc": Object {
+    "int": "Sardinian",
+    "native": "Sardu",
+  },
+  "si": Object {
+    "int": "Sinhala",
+    "native": "සිංහල",
+  },
+  "sk": Object {
+    "int": "Slovak",
+    "native": "Slovenčina",
+  },
+  "sl": Object {
+    "int": "Slovenian",
+    "native": "Slovenščina",
+  },
+  "so": Object {
+    "int": "Somali",
+    "native": "Af-Soomaali",
+  },
+  "sq": Object {
+    "int": "Albanian",
+    "native": "Shqip",
+  },
+  "sr": Object {
+    "int": "Serbian",
+    "native": "Српски",
+  },
+  "sv": Object {
+    "int": "Swedish",
+    "native": "Svenska",
+  },
+  "sw": Object {
+    "int": "Swahili",
+    "native": "Kiswahili",
+  },
+  "sy": Object {
+    "int": "Syriac",
+    "native": "ܣܘܪܝܝܐ",
+  },
+  "sz": Object {
+    "int": "Silesian",
+    "native": "ślōnskŏ gŏdka",
+  },
+  "ta": Object {
+    "int": "Tamil",
+    "native": "தமிழ்",
+  },
+  "te": Object {
+    "int": "Telugu",
+    "native": "తెలుగు",
+  },
+  "tg": Object {
+    "int": "Tajik",
+    "native": "Тоҷикӣ",
+  },
+  "th": Object {
+    "int": "Thai",
+    "native": "ภาษาไทย",
+  },
+  "tl": Object {
+    "int": "Tagalog / Filipino",
+    "native": "Filipino",
+  },
+  "tr": Object {
+    "int": "Turkish",
+    "native": "Türkçe",
+  },
+  "tz": Object {
+    "int": "Tamazight",
+    "native": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  },
+  "uk": Object {
+    "int": "Ukrainian",
+    "native": "Українська",
+  },
+  "ur": Object {
+    "int": "Urdu",
+    "native": "اردو",
+  },
+  "uz": Object {
+    "int": "Uzbek",
+    "native": "O\'zbek",
+  },
+  "vi": Object {
+    "int": "Vietnamese",
+    "native": "Tiếng Việt",
+  },
+  "zh": Object {
+    "int": "Simplified Chinese",
+    "native": "中文",
+  },
+}
+`;
+
+exports[`index should match strict languages list snapshot 1`] = `
+Object {
+  "af_ZA": Object {
+    "int": "Afrikaans",
+    "native": "Afrikaans",
+  },
+  "ar_AR": Object {
+    "int": "Arabic",
+    "native": "العربية",
+  },
+  "as_IN": Object {
+    "int": "Assamese",
+    "native": "অসমীয়া",
+  },
+  "az_AZ": Object {
+    "int": "Azerbaijani",
+    "native": "Azərbaycan dili",
+  },
+  "be_BY": Object {
+    "int": "Belarusian",
+    "native": "Беларуская",
+  },
+  "bg_BG": Object {
+    "int": "Bulgarian",
+    "native": "Български",
+  },
+  "bn_IN": Object {
+    "int": "Bengali",
+    "native": "বাংলা",
+  },
+  "br_FR": Object {
+    "int": "Breton",
+    "native": "Brezhoneg",
+  },
+  "bs_BA": Object {
+    "int": "Bosnian",
+    "native": "Bosanski",
+  },
+  "ca_ES": Object {
+    "int": "Catalan / Valencian",
+    "native": "Català",
+  },
+  "cb_IQ": Object {
+    "int": "Sorani Kurdish",
+    "native": "کوردیی ناوەندی",
+  },
+  "cs_CZ": Object {
+    "int": "Czech",
+    "native": "Čeština",
+  },
+  "cx_PH": Object {
+    "int": "Visayan",
+    "native": "Bisaya",
+  },
+  "cy_GB": Object {
+    "int": "Welsh",
+    "native": "Cymraeg",
+  },
+  "da_DK": Object {
+    "int": "Danish",
+    "native": "Dansk",
+  },
+  "de_DE": Object {
+    "int": "German",
+    "native": "Deutsch",
+  },
+  "el_GR": Object {
+    "int": "Greek",
+    "native": "Ελληνικά",
+  },
+  "en_GB": Object {
+    "int": "English (UK)",
+    "native": "English (UK)",
+  },
+  "en_US": Object {
+    "int": "English (US)",
+    "native": "English (US)",
+  },
+  "eo_EO": Object {
+    "int": "Esperanto",
+    "native": "Esperanto",
+  },
+  "es_ES": Object {
+    "int": "Spanish (Spain)",
+    "native": "Español (España)",
+  },
+  "es_LA": Object {
+    "int": "Spanish",
+    "native": "Español",
+  },
+  "et_EE": Object {
+    "int": "Estonian",
+    "native": "Eesti",
+  },
+  "eu_ES": Object {
+    "int": "Basque",
+    "native": "Euskara",
+  },
+  "fa_IR": Object {
+    "int": "Persian",
+    "native": "فارسی",
+  },
+  "fi_FI": Object {
+    "int": "Finnish",
+    "native": "Suomi",
+  },
+  "fo_FO": Object {
+    "int": "Faroese",
+    "native": "Føroyskt",
+  },
+  "fr_CA": Object {
+    "int": "French (Canada)",
+    "native": "Français (Canada)",
+  },
+  "fr_FR": Object {
+    "int": "French (France)",
+    "native": "Français (France)",
+  },
+  "fy_NL": Object {
+    "int": "West Frisian",
+    "native": "Frysk",
+  },
+  "ga_IE": Object {
+    "int": "Irish",
+    "native": "Gaeilge",
+  },
+  "gl_ES": Object {
+    "int": "Galician",
+    "native": "Galego",
+  },
+  "gn_PY": Object {
+    "int": "Guarani",
+    "native": "Avañe\'ẽ",
+  },
+  "gu_IN": Object {
+    "int": "Gujarati",
+    "native": "ગુજરાતી",
+  },
+  "ha_NG": Object {
+    "int": "Hausa",
+    "native": "Hausa",
+  },
+  "he_IL": Object {
+    "int": "Hebrew",
+    "native": "עברית",
+  },
+  "hi_IN": Object {
+    "int": "Hindi",
+    "native": "हिन्दी",
+  },
+  "hr_HR": Object {
+    "int": "Hausa",
+    "native": "Hrvatski",
+  },
+  "hu_HU": Object {
+    "int": "Hungarian",
+    "native": "Magyar",
+  },
+  "hy_AM": Object {
+    "int": "Armenian",
+    "native": "Հայերեն",
+  },
+  "id_ID": Object {
+    "int": "Indonesian",
+    "native": "Bahasa Indonesia",
+  },
+  "is_IS": Object {
+    "int": "Icelandic",
+    "native": "Íslenska",
+  },
+  "it_IT": Object {
+    "int": "Italian",
+    "native": "Italiano",
+  },
+  "ja_JP": Object {
+    "int": "Japanese",
+    "native": "日本語",
+  },
+  "ja_KS": Object {
+    "int": "Japanese (Kansai)",
+    "native": "日本語(関西)",
+  },
+  "jv_ID": Object {
+    "int": "Javanese",
+    "native": "Basa Jawa",
+  },
+  "ka_GE": Object {
+    "int": "Georgian",
+    "native": "ქართული",
+  },
+  "kk_KZ": Object {
+    "int": "Kazakh",
+    "native": "Қазақша",
+  },
+  "km_KH": Object {
+    "int": "Khmer",
+    "native": "ភាសាខ្មែរ",
+  },
+  "kn_IN": Object {
+    "int": "Kannada",
+    "native": "ಕನ್ನಡ",
+  },
+  "ko_KR": Object {
+    "int": "Korean",
+    "native": "한국어",
+  },
+  "ku_TR": Object {
+    "int": "Kurdish",
+    "native": "Kurdî (Kurmancî)",
+  },
+  "la_VA": Object {
+    "int": "Latin",
+    "native": "lingua latina",
+  },
+  "lt_LT": Object {
+    "int": "Lithuanian",
+    "native": "Lietuvių",
+  },
+  "lv_LV": Object {
+    "int": "Latvian",
+    "native": "Latviešu",
+  },
+  "mg_MG": Object {
+    "int": "Malagasy",
+    "native": "Malagasy",
+  },
+  "mk_MK": Object {
+    "int": "Macedonian",
+    "native": "Македонски",
+  },
+  "ml_IN": Object {
+    "int": "Malayalam",
+    "native": "മലയാളം",
+  },
+  "mn_MN": Object {
+    "int": "Mongolian",
+    "native": "Монгол",
+  },
+  "mr_IN": Object {
+    "int": "Marathi",
+    "native": "मराठी",
+  },
+  "ms_MY": Object {
+    "int": "Malay",
+    "native": "Bahasa Melayu",
+  },
+  "my_MM": Object {
+    "int": "Burmese",
+    "native": "မြန်မာဘာသာ",
+  },
+  "nb_NO": Object {
+    "int": "Norwegian (bokmal)",
+    "native": "Norsk (bokmål)",
+  },
+  "ne_NP": Object {
+    "int": "Nepali",
+    "native": "नेपाली",
+  },
+  "nl_BE": Object {
+    "int": "Dutch (België)",
+    "native": "Nederlands (België)",
+  },
+  "nl_NL": Object {
+    "int": "Dutch",
+    "native": "Nederlands",
+  },
+  "nn_NO": Object {
+    "int": "Norwegian Nynorsk",
+    "native": "Norsk (nynorsk)",
+  },
+  "or_IN": Object {
+    "int": "Oriya",
+    "native": "ଓଡ଼ିଆ",
+  },
+  "pa_IN": Object {
+    "int": "Punjabi",
+    "native": "ਪੰਜਾਬੀ",
+  },
+  "pl_PL": Object {
+    "int": "Polish",
+    "native": "Polski",
+  },
+  "ps_AF": Object {
+    "int": "Pashto",
+    "native": "پښتو",
+  },
+  "pt_BR": Object {
+    "int": "Portuguese (Brasil)",
+    "native": "Português (Brasil)",
+  },
+  "pt_PT": Object {
+    "int": "Portuguese (Portugal)",
+    "native": "Português (Portugal)",
+  },
+  "ro_RO": Object {
+    "int": "Romanian",
+    "native": "Română",
+  },
+  "ru_RU": Object {
+    "int": "Russian",
+    "native": "Русский",
+  },
+  "rw_RW": Object {
+    "int": "Rwandi",
+    "native": "Ikinyarwanda",
+  },
+  "sc_IT": Object {
+    "int": "Sardinian",
+    "native": "Sardu",
+  },
+  "si_LK": Object {
+    "int": "Sinhala",
+    "native": "සිංහල",
+  },
+  "sk_SK": Object {
+    "int": "Slovak",
+    "native": "Slovenčina",
+  },
+  "sl_SI": Object {
+    "int": "Slovenian",
+    "native": "Slovenščina",
+  },
+  "so_SO": Object {
+    "int": "Somali",
+    "native": "Af-Soomaali",
+  },
+  "sq_AL": Object {
+    "int": "Albanian",
+    "native": "Shqip",
+  },
+  "sr_RS": Object {
+    "int": "Serbian",
+    "native": "Српски",
+  },
+  "sv_SE": Object {
+    "int": "Swedish",
+    "native": "Svenska",
+  },
+  "sw_KE": Object {
+    "int": "Swahili",
+    "native": "Kiswahili",
+  },
+  "sy_SY": Object {
+    "int": "Syriac",
+    "native": "ܣܘܪܝܝܐ",
+  },
+  "sz_PL": Object {
+    "int": "Silesian",
+    "native": "ślōnskŏ gŏdka",
+  },
+  "ta_IN": Object {
+    "int": "Tamil",
+    "native": "தமிழ்",
+  },
+  "te_IN": Object {
+    "int": "Telugu",
+    "native": "తెలుగు",
+  },
+  "tg_TJ": Object {
+    "int": "Tajik",
+    "native": "Тоҷикӣ",
+  },
+  "th_TH": Object {
+    "int": "Thai",
+    "native": "ภาษาไทย",
+  },
+  "tl_PH": Object {
+    "int": "Tagalog / Filipino",
+    "native": "Filipino",
+  },
+  "tr_TR": Object {
+    "int": "Turkish",
+    "native": "Türkçe",
+  },
+  "tz_MA": Object {
+    "int": "Tamazight",
+    "native": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  },
+  "uk_UA": Object {
+    "int": "Ukrainian",
+    "native": "Українська",
+  },
+  "ur_PK": Object {
+    "int": "Urdu",
+    "native": "اردو",
+  },
+  "uz_UZ": Object {
+    "int": "Uzbek",
+    "native": "O\'zbek",
+  },
+  "vi_VN": Object {
+    "int": "Vietnamese",
+    "native": "Tiếng Việt",
+  },
+  "zh_CN": Object {
+    "int": "Simplified Chinese (China)",
+    "native": "中文(简体)",
+  },
+  "zh_HK": Object {
+    "int": "Traditional Chinese (Hong Kong)",
+    "native": "中文(香港)",
+  },
+  "zh_TW": Object {
+    "int": "Traditional Chinese (Taiwan)",
+    "native": "中文(台灣)",
+  },
+}
+`;
+
+exports[`index should return NONE strict languages list when calling \`LangList.getList()\` without config 1`] = `
+Array [
+  Object {
+    "code": "ar",
+    "int": "Arabic",
+    "native": "العربية",
+  },
+  Object {
+    "code": "en",
+    "int": "English",
+    "native": "English",
+  },
+  Object {
+    "code": "fr",
+    "int": "French",
+    "native": "Français",
+  },
+  Object {
+    "code": "es",
+    "int": "Spanish",
+    "native": "Español",
+  },
+]
+`;
+
+exports[`index should return strict languages list when calling \`LangList.getList()\` without config 1`] = `
+Array [
+  Object {
+    "code": "ar_AR",
+    "int": "Arabic",
+    "native": "العربية",
+  },
+  Object {
+    "code": "en_US",
+    "int": "English (US)",
+    "native": "English (US)",
+  },
+  Object {
+    "code": "fr_CA",
+    "int": "French (Canada)",
+    "native": "Français (Canada)",
+  },
+]
+`;
+
+exports[`index should throw exception when calling \`LangList.getList()\` with wrong type for \`config.supportedLangs\` 1`] = `"Argument \`config.supportedLangs\` is required!"`;
+
+exports[`index should throw exception when calling \`LangList.getList()\` without \`config.supportedLangs\` 1`] = `"Argument \`config.supportedLangs\` is required!"`;
+
+exports[`index should throw exception when calling \`LangList.getList()\` without config 1`] = `"Argument \`config\` should be an object!"`;

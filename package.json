@@ -1,0 +1,48 @@
+{
+  "name": "lang-list",
+  "version": "1.0.0",
+  "description": "Node.js lib helps to retrieve a list of supported languages to be used in web apps UI.",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "jshint --verbose ./index.js ./lib/* ./__tests__/*",
+    "test": "jest --coverage"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadiabuhilal/lang-list.git"
+  },
+  "keywords": [
+    "lang-list",
+    "langs",
+    "lang",
+    "language",
+    "i18n",
+    "languages",
+    "globalize",
+    "popular",
+    "world",
+    "list",
+    "Lib",
+    "NodeJS"
+  ],
+  "author": "Shadi Abu Hilal <shadiabuhilal@gmail.com> (http://github.com/shadiabuhilal)",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/shadiabuhilal/lang-list",
+  "bugs": {
+    "url": "https://github.com/shadiabuhilal/lang-list/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD-3-Clause",
+      "url": "https://github.com/shadiabuhilal/lang-list/blob/master/LICENSE.md"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^16.0.1",
+    "jshint": "^2.9.3"
+  }
+}
