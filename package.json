@@ -1,6 +1,6 @@
 {
   "name": "lang-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js lib helps to retrieve a list of supported languages to be used in web apps UI.",
   "main": "index.js",
   "scripts": {
