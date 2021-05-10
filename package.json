@@ -1,10 +1,11 @@
 {
   "name": "lang-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js lib helps to retrieve a list of supported languages to be used in web apps UI.",
   "main": "index.js",
   "scripts": {
-    "pretest": "jshint --verbose ./index.js ./lib/* ./__tests__/*",
+    "lint": "eslint .",
+    "pretest": "npm run lint",
     "test": "jest --coverage"
   },
   "jest": {
@@ -40,9 +41,8 @@
       "url": "https://github.com/shadiabuhilal/lang-list/blob/master/LICENSE.md"
     }
   ],
-  "dependencies": {},
   "devDependencies": {
-    "jest": "^16.0.1",
-    "jshint": "^2.9.3"
+    "eslint": "^7.26.0",
+    "jest": "^26.6.3"
   }
 }

@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`index should match languages list snapshot 1`] = `
 Object {
   "af": Object {
@@ -96,7 +98,7 @@ Object {
     "int": "Finnish",
     "native": "Suomi",
   },
-  "fo_FO": Object {
+  "fo": Object {
     "int": "Faroese",
     "native": "Føroyskt",
   },
@@ -118,7 +120,7 @@ Object {
   },
   "gn": Object {
     "int": "Guarani",
-    "native": "Avañe\'ẽ",
+    "native": "Avañe'ẽ",
   },
   "gu": Object {
     "int": "Gujarati",
@@ -127,10 +129,6 @@ Object {
   "ha": Object {
     "int": "Hausa",
     "native": "Hausa",
-  },
-  "he": Object {
-    "int": "Hebrew",
-    "native": "עברית",
   },
   "hi": Object {
     "int": "Hindi",
@@ -161,8 +159,8 @@ Object {
     "native": "Italiano",
   },
   "ja": Object {
-    "int": "Japanese (Kansai)",
-    "native": "日本語(関西)",
+    "int": "Japanese",
+    "native": "日本語",
   },
   "jv": Object {
     "int": "Javanese",
@@ -362,7 +360,7 @@ Object {
   },
   "uz": Object {
     "int": "Uzbek",
-    "native": "O\'zbek",
+    "native": "O'zbek",
   },
   "vi": Object {
     "int": "Vietnamese",
@@ -507,7 +505,7 @@ Object {
   },
   "gn_PY": Object {
     "int": "Guarani",
-    "native": "Avañe\'ẽ",
+    "native": "Avañe'ẽ",
   },
   "gu_IN": Object {
     "int": "Gujarati",
@@ -516,10 +514,6 @@ Object {
   "ha_NG": Object {
     "int": "Hausa",
     "native": "Hausa",
-  },
-  "he_IL": Object {
-    "int": "Hebrew",
-    "native": "עברית",
   },
   "hi_IN": Object {
     "int": "Hindi",
@@ -763,7 +757,7 @@ Object {
   },
   "uz_UZ": Object {
     "int": "Uzbek",
-    "native": "O\'zbek",
+    "native": "O'zbek",
   },
   "vi_VN": Object {
     "int": "Vietnamese",

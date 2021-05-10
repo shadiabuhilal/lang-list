@@ -1,3 +1,4 @@
+/* global describe, it, expect */
 /**
  * Copyright 2016, Yahoo Inc.
  * Copyrights licensed under the New BSD License. See the accompanying LICENSE file for terms.
@@ -13,11 +14,11 @@ var StrictLanguages = require('../data/strict-languages.json');
 describe('index', function() {
 
     it('should return object after `require(\'lang-list\')`', function () {
-        expect(LangList).toEqual(jasmine.any(Object));
+        expect(LangList).toBeInstanceOf(Object);
     });
 
     it('should be a function for `LangList.getList`', function () {
-        expect(LangList.getList).toEqual(jasmine.any(Function));
+        expect(LangList.getList).toBeInstanceOf(Function);
     });
 
     it('should throw exception when calling `LangList.getList()` without config', function () {

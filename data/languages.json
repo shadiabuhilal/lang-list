@@ -79,7 +79,7 @@
         "int": "Estonian",
         "native": "Eesti"
     },
-    "fo_FO": {
+    "fo": {
         "int": "Faroese",
         "native": "Føroyskt"
     },
@@ -123,10 +123,6 @@
         "int": "Hausa",
         "native": "Hausa"
     },
-    "he": {
-        "int": "Hebrew",
-        "native": "עברית"
-    },
     "hi": {
         "int": "Hindi",
         "native": "हिन्दी"
@@ -154,10 +150,6 @@
     "ja": {
         "int": "Japanese",
         "native": "日本語"
-    },
-    "ja": {
-        "int": "Japanese (Kansai)",
-        "native": "日本語(関西)"
     },
     "jv": {
         "int": "Javanese",
