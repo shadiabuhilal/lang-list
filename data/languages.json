@@ -123,6 +123,10 @@
         "int": "Hausa",
         "native": "Hausa"
     },
+    "he": {
+        "int": "Hebrew",
+        "native": "עברית"
+    },
     "hi": {
         "int": "Hindi",
         "native": "हिन्दी"
