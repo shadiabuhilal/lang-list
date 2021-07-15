@@ -130,6 +130,10 @@ Object {
     "int": "Hausa",
     "native": "Hausa",
   },
+  "he": Object {
+    "int": "Hebrew",
+    "native": "עברית",
+  },
   "hi": Object {
     "int": "Hindi",
     "native": "हिन्दी",
@@ -514,6 +518,10 @@ Object {
   "ha_NG": Object {
     "int": "Hausa",
     "native": "Hausa",
+  },
+  "he_IL": Object {
+    "int": "Hebrew",
+    "native": "עברית",
   },
   "hi_IN": Object {
     "int": "Hindi",
