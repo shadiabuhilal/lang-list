@@ -831,8 +831,5 @@ Array [
 ]
 `;
 
-exports[`index should throw exception when calling \`LangList.getList()\` with wrong type for \`config.supportedLangs\` 1`] = `"Argument \`config.supportedLangs\` is required!"`;
+exports[`index should throw exception when calling \`LangList.getList()\` with wrong type for \`config.supportedLangs\` 1`] = `"Argument \`config.supportedLangs\` should be an array!"`;
 
-exports[`index should throw exception when calling \`LangList.getList()\` without \`config.supportedLangs\` 1`] = `"Argument \`config.supportedLangs\` is required!"`;
-
-exports[`index should throw exception when calling \`LangList.getList()\` without config 1`] = `"Argument \`config\` should be an object!"`;

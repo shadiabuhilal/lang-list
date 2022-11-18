@@ -21,16 +21,16 @@ describe('index', function() {
         expect(LangList.getList).toBeInstanceOf(Function);
     });
 
-    it('should throw exception when calling `LangList.getList()` without config', function () {
+    it('should not throw exception when calling `LangList.getList()` without config', function () {
         expect(function () {
             LangList.getList();
-        }).toThrowErrorMatchingSnapshot();
+        }).not.toThrowError();
     });
 
-    it('should throw exception when calling `LangList.getList()` without `config.supportedLangs`', function () {
+    it('should not throw exception when calling `LangList.getList()` without `config.supportedLangs`', function () {
         expect(function () {
             LangList.getList({});
-        }).toThrowErrorMatchingSnapshot();
+        }).not.toThrowError();
     });
 
     it('should throw exception when calling `LangList.getList()` with wrong type for `config.supportedLangs`', function () {
