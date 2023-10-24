@@ -12,6 +12,7 @@ Node.js lib helps to retrieve a list of supported languages to be used in web ap
 var LangList = require('lang-list');
 ```
 
+
 ### LangList.getList()
 This function will retrieve a list of supported languages to be used in web apps UI based on the passed config object.
 
