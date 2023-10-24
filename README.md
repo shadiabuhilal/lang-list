@@ -1,5 +1,5 @@
 # lang-list
-[![Build Status](https://travis-ci.org/shadiabuhilal/lang-list.svg?branch=master)](https://travis-ci.org/shadiabuhilal/lang-list)
+![Build Status](https://github.com/shadiabuhilal/lang-list/actions/workflows/push-workflows.yml/badge.svg)
 
 
 Node.js lib helps to retrieve a list of supported languages to be used in web apps UI.
